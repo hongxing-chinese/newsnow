@@ -1,6 +1,6 @@
 ![](/public/og-image.png)
 
-[English](./README.md) | [简体中文](README.zh-CN.md) | 日本語
+[简体中文](README.md) | [English](README.en-US.md) | 日本語
 
 > [!NOTE]
 > 本バージョンはデモ版であり、現在中国語のみ対応しています。カスタマイズ機能や英語コンテンツをサポートした正式版は後日リリース予定です。
